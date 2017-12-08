@@ -1,4 +1,5 @@
-# rMP - Matrix Profile in R
+[![Build Status](https://travis-ci.com/JessicaSousa/rMP.svg?token=mX4kYPR3q65qWRGzf9Ks&branch=master)](https://travis-ci.com/JessicaSousa/rMP)
+# rMP - Matrix Profile in R 
 
 This is a implementation of matrix profile using STAMP method.
 
